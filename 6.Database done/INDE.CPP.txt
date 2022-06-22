@@ -1,0 +1,112 @@
+Lecture
+100.0%
+
+Score 240.00/240
+
+Introduction To Databases
+
+Choose the correct option
+10.0/10
+
+Choose the correct option
+10.0/10
+
+Relational Database Management System
+
+Choose the correct option
+10.0/10
+
+Choose the correct option
+10.0/10
+
+Choose the correct option
+10.0/10
+
+No SQL Database
+
+Choose the correct option
+10.0/10
+
+Practice Question
+
+Part A
+10.0/10
+
+Part B
+10.0/10
+
+Part C
+10.0/10
+
+Part D
+10.0/10
+
+Part E
+10.0/10
+
+Part F
+10.0/10
+
+Part G
+10.0/10
+
+Part H
+10.0/10
+
+Part I
+10.0/10
+
+Polyglot with example
+
+Assignment
+
+Part A
+
+Part B
+
+Practice Question 3.
+
+Part C
+10.0/10
+
+Part D
+10.0/10
+
+Part E
+10.0/10
+
+Part F
+10.0/10
+
+Part G
+10.0/10
+
+Part H
+10.0/10
+
+Introduction to Denormalization
+
+Choose the correct option
+10.0/10
+
+Choose the correct option
+10.0/10
+
+Choose the correct option
+10.0/10
+
+Denormalization : Case Study
+
+Databases
+
+Assignment
+
+Part A
+
+Part B
+
+Part C
+
+Part D
+
+Lecture Feedback

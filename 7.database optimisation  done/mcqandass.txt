@@ -1,0 +1,74 @@
+Choose the correct option
+Send Feedback
+If we index a column in a table then a lookup table is created with a column and ______ to the memory location where the row with this column is actually stored.
+Options
+Pointer 
+Key
+Table
+Array
+Correct Answer
+Solution Description
+Indexing creates a lookup table with the column and the pointer to the memory location of the row, containing this column.
+
+
+
+Choose the correct option
+Send Feedback
+Which data structure is most commonly used for indexing?
+Options
+Linked List
+B Trees 
+Arrays
+Stack
+Correct Answer
+Solution Description
+B-trees data structure  is used to store the indexing.
+
+Choose the correct option
+Send Feedback
+Which of the following is true?
+Options
+Index can be created on one or more columns 
+Indexing helps to speed up query execution 
+Indexing should be created on columns which are frequently updated
+All of the above
+Correct Answer
+Solution Description
+Indexing helps small, fast, and optimized quick lookups. The columns generally used for lookup rows like Primary key columns can be indexed. Columns that are frequently updated and manipulated should not be indexed as it would require excessive maintenance.
+
+
+
+Indexing should not be used when :
+Options
+When the tables are small and write intensive 
+When the tables are huge and read intensive
+When the tables are huge and write intensive 
+Correct Answer
+Solution Description
+Indexing small tables may not be optimal because it can take the query optimizer longer to traverse the index searching for data than to perform a simple table scan. Indexing should only be used if the data is huge and the application is read-intensive.If an application is write intensive indexing might lower the performance of write operations.
+
+ Choose the correct option
+Send Feedback
+Which of the following is true?
+Options
+Indexing slows down the performance of the Insert and Update statements
+Indexing speeds up the Select statement
+It avoids full table scan hence retrieval of data is fast
+All of the above 
+Correct Answer
+
+When should partitioning be done?
+Options
+When data is huge and single server cannot hold all the data
+When there are large number of concurrent users leading to high response time
+Both A and B 
+Correct Answer
+
+Partitioning of a Database into multiple machines usually leads to:
+Options
+Increase the availability of data 
+Reduce the scalability of application
+Improve the manageability of data 
+Load balancing of an application 
+Speed up query response time 
+Correct Answer
